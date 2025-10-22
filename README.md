@@ -7,8 +7,11 @@ It uses many different functions of unity to create an immersive experience such
 This project was created using unity Version 2022.3.6f1
 
 ## Gameplay
-![2D Platformer Gameplay](Screenshots/2D-Platformer_Game_lvl3.png)
+![2D Platformer Gameplay](Screenshots/2D_Platformer_Game_lvl3.png)
+
 ![2D Platformer Gameplay](Screenshots/2D-Platformer_Game_lvl4.png)
+
 ![2D Platformer Gameplay](Screenshots/2D-Platformer_Game_lvl5.png)
+
 
 
